@@ -1,0 +1,22 @@
+* {
+	color: #727072;
+}
+hr {
+	border-top: 2px solid;
+}
+
+.panel-profile {
+	border: 2px solid #727072;
+	border-radius: 0;
+}
+
+.panel-profile .panel-heading {
+	background: #727072;
+	color: #fff;
+	border-radius: 0;
+	font-size: 24px;
+}
+
+.icon-group p{
+	display: inline-block;
+}
