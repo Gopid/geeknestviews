@@ -41,3 +41,17 @@ i.fa.fa-circle, i.fa.fa-circle-o {
 	padding-left: 10px;
 	padding-right: 10px;
 }
+
+.row {
+	display: flex;
+}
+
+.row > div[class*='col-md-'] {
+	display: flex;
+}
+
+.panel-profile {
+	width: -moz-available;
+	width: -moz-fill;
+	width: -webkit-fill-available;
+}
